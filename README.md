@@ -1,1 +1,0 @@
-# echo1699.pokedex.io
